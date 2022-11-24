@@ -1,5 +1,5 @@
 
-I am a random software developer who builds software tools | [Resume](http://resume.github.io/?vkosuri) | [Profile](https://github-profile-summary.com/user/vkosuri) | [Innovation and Improvement](https://portal.adtran.com/web/fileDownload/doc/33375) | [Hackathon](https://en.wikipedia.org/wiki/Hackathon) and other Presentation talks
+I am a random software developer who builds software tools | [Resume](http://resume.github.io/?vkosuri) | [Profile](https://github-profile-summary.com/user/vkosuri) | [Innovation and Improvement](https://www.scaledagileframework.com/innovation-and-planning-iteration/) | [Hackathon](https://en.wikipedia.org/wiki/Hackathon) and other Presentation talks
 
 ## Innovation and Improvement
 1. Regression Compactor | **20 ‎Feb ‎2016** | [PPT](./talks/iandi/RegressionCompactor_20Feb2016.pptx)| :sparkler:
